@@ -1,0 +1,25 @@
+* {
+    font-family: "Muli";
+    font-weight: 900;
+}
+
+body {
+    background-color: black;
+}
+
+.jumbotron {
+	background-color: #dff0d8;
+   
+}
+
+.jumbotron h1, p, a {
+    color: #3c7634;
+}
+
+.jumbotron a:hover {
+	color: #3c7634;
+}
+
+label {
+     color: #3c7634;
+}

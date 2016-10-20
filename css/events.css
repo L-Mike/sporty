@@ -1,0 +1,25 @@
+* {
+    font-family: "Muli";
+    font-weight: 900;
+}
+
+body {
+    background-color: black;
+}
+
+.jumbotron {
+	background-color: #f2dede;
+    color: #a94442;
+}
+
+.jumbotron a {
+	color: #a94442;
+}
+
+.jumbotron a:hover {
+	color: #a94442;
+}
+
+hr {
+    visibility: hidden;
+}
